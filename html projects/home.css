@@ -63,3 +63,15 @@ a{
     display: flex;
     gap: 5%;
 }
+/* .vertical-bar{
+    gap: 20%;
+    display: block;
+    list-style-type: disc;
+    height: 100vh;
+    border: 2px solid white;
+    width: 40px;
+    position: relative;
+    margin-bottom: 50%;
+
+} */
+
