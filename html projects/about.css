@@ -22,7 +22,7 @@ li a {
 
 li :hover {
     background-color: #654321;
-
+    transition-duration: 0.8s;
 }
 
 body {
