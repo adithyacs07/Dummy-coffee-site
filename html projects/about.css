@@ -40,6 +40,9 @@ h1 {
     font-style: italic;
     color: white;
 }
+.logo{
+    margin-left: 7.5em;
+}
 
 h2 {
     color: azure;

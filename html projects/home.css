@@ -5,13 +5,17 @@ ul{
     padding: 0.5%;
     overflow: hidden;
     background-color:#6F4E37;
+    align-self: center;
 }
 ul{
+    color: white;
     display: flex;
-    gap: 23%;
+    gap: 17%;
+    align-self: center;
 }
 li a{
-    display: block;
+    display: flex;
+    padding: 5%;
     color: white;
     text-align: center;
     padding: 14px 16px;
